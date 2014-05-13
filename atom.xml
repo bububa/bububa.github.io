@@ -4,7 +4,7 @@
   <subtitle><![CDATA[什么都没有，除了我的天才。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://bububa.github.com/"/>
-  <updated>2014-05-13T10:53:48.959Z</updated>
+  <updated>2014-05-13T10:59:15.105Z</updated>
   <id>http://bububa.github.com/</id>
   
   <author>
@@ -13,6 +13,49 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[一些事情要小心]]></title>
+    <link href="http://bububa.github.com/2009/02/27/away-from/"/>
+    <id>http://bububa.github.com/2009/02/27/away-from/</id>
+    <published>2009-02-27T10:56:27.000Z</published>
+    <updated>2014-05-13T10:59:10.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Leni_Riefenstahl" target="_blank">Leni Riefenstahl</a> | <a href="http://en.wikipedia.org/wiki/Jean-Luc_Godard" target="_blank">Jean Luc Godard</a> | <a href="http://en.wikipedia.org/wiki/Pier_Paolo_Pasolini" target="_blank">Pier Paolo Pasolini</a> | 85 年版生活手册</p>
+<p>可怕的形式主义</p>
+]]></content>
+    
+    
+      <category term="形式主义" scheme="http://bububa.github.com/tags/%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89/"/>
+    
+      <category term="Leni Riefenstahl" scheme="http://bububa.github.com/tags/Leni%20Riefenstahl/"/>
+    
+      <category term="Jean Luc Godard" scheme="http://bububa.github.com/tags/Jean%20Luc%20Godard/"/>
+    
+      <category term="Pier Paolo Pasolini" scheme="http://bububa.github.com/tags/Pier%20Paolo%20Pasolini/"/>
+    
+      <category term="85年版生活手册" scheme="http://bububa.github.com/tags/85%E5%B9%B4%E7%89%88%E7%94%9F%E6%B4%BB%E6%89%8B%E5%86%8C/"/>
+    
+      <category term="消失" scheme="http://bububa.github.com/categories/%E6%B6%88%E5%A4%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[白雪公主记得的事]]></title>
+    <link href="http://bububa.github.com/2009/02/27/The-things-in-miss-bais-head/"/>
+    <id>http://bububa.github.com/2009/02/27/The-things-in-miss-bais-head/</id>
+    <published>2009-02-27T10:54:43.000Z</published>
+    <updated>2014-05-13T10:55:47.000Z</updated>
+    <content type="html"><![CDATA[<p>猎人</p>
+<p>森林</p>
+<p>滚烫的刀子</p>
+]]></content>
+    
+    
+      <category term="白雪公主" scheme="http://bububa.github.com/tags/%E7%99%BD%E9%9B%AA%E5%85%AC%E4%B8%BB/"/>
+    
+      <category term="消失" scheme="http://bububa.github.com/categories/%E6%B6%88%E5%A4%B1/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[良乡回忆录]]></title>
