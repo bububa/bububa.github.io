@@ -4,7 +4,7 @@
   <subtitle><![CDATA[什么都没有，除了我的天才。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://bububa.github.com/"/>
-  <updated>2014-05-13T11:22:23.559Z</updated>
+  <updated>2014-05-13T11:30:41.422Z</updated>
   <id>http://bububa.github.com/</id>
   
   <author>
@@ -13,6 +13,45 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[章一韬]]></title>
+    <link href="http://bububa.github.com/2009/03/25/Zakkzhang/"/>
+    <id>http://bububa.github.com/2009/03/25/Zakkzhang/</id>
+    <published>2009-03-25T11:25:48.000Z</published>
+    <updated>2014-05-13T11:30:33.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="/images/zakkzhang.jpg" alt="zakkzhang"></p>
+<p>一颗被酒精浸泡过的灵魂!</p>
+]]></content>
+    
+    
+      <category term="zakkzhang" scheme="http://bububa.github.com/tags/zakkzhang/"/>
+    
+      <category term="张先生" scheme="http://bububa.github.com/tags/%E5%BC%A0%E5%85%88%E7%94%9F/"/>
+    
+      <category term="章一韬" scheme="http://bububa.github.com/tags/%E7%AB%A0%E4%B8%80%E9%9F%AC/"/>
+    
+      <category term="消失" scheme="http://bububa.github.com/categories/%E6%B6%88%E5%A4%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[不期而遇]]></title>
+    <link href="http://bububa.github.com/2009/03/22/unexpected/"/>
+    <id>http://bububa.github.com/2009/03/22/unexpected/</id>
+    <published>2009-03-22T11:24:05.000Z</published>
+    <updated>2014-05-13T11:25:09.000Z</updated>
+    <content type="html"><![CDATA[<p>秦玫酒醉，至东直门小酒馆儿，陈明昊戏后归家，场面很尴尬。相忘于，太假。</p>
+]]></content>
+    
+    
+      <category term="秦玫" scheme="http://bububa.github.com/tags/%E7%A7%A6%E7%8E%AB/"/>
+    
+      <category term="陈明昊" scheme="http://bububa.github.com/tags/%E9%99%88%E6%98%8E%E6%98%8A/"/>
+    
+      <category term="消失" scheme="http://bububa.github.com/categories/%E6%B6%88%E5%A4%B1/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[耳聋]]></title>
