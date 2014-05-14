@@ -4,7 +4,7 @@
   <subtitle><![CDATA[什么都没有，除了我的天才。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://bububa.github.io/"/>
-  <updated>2014-05-14T09:10:12.732Z</updated>
+  <updated>2014-05-14T09:10:36.561Z</updated>
   <id>http://bububa.github.io/</id>
   
   <author>
@@ -77,10 +77,10 @@
   
   <entry>
     <title><![CDATA[非洲啊非洲]]></title>
-    <link href="http://bububa.github.io/2009/04/12/%E9%9D%9E%E6%B4%B2%E5%95%8A%E9%9D%9E%E6%B4%B2/"/>
-    <id>http://bububa.github.io/2009/04/12/非洲啊非洲/</id>
+    <link href="http://bububa.github.io/2009/04/12/Africa/"/>
+    <id>http://bububa.github.io/2009/04/12/Africa/</id>
     <published>2009-04-12T11:31:25.000Z</published>
-    <updated>2014-05-13T11:32:06.000Z</updated>
+    <updated>2014-05-14T09:10:31.000Z</updated>
     <content type="html"><![CDATA[<p>白云宁静得像哭泣的仙女，阳光穿透黑色的皮肤，把美投射在每一根稻草上，这才是该去的地方！</p>
 ]]></content>
     
@@ -90,6 +90,8 @@
       <category term="FARM" scheme="http://bububa.github.io/tags/FARM/"/>
     
       <category term="Jackie Nickerson" scheme="http://bububa.github.io/tags/Jackie%20Nickerson/"/>
+    
+      <category term="消失" scheme="http://bububa.github.io/categories/%E6%B6%88%E5%A4%B1/"/>
     
   </entry>
   
