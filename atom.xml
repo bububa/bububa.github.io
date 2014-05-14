@@ -4,7 +4,7 @@
   <subtitle><![CDATA[什么都没有，除了我的天才。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://syd.todayclose.com/"/>
-  <updated>2014-05-14T10:35:26.869Z</updated>
+  <updated>2014-05-14T12:50:46.319Z</updated>
   <id>http://syd.todayclose.com/</id>
   
   <author>
@@ -166,9 +166,9 @@
     <link href="http://syd.todayclose.com/2010/03/14/Lets-play-to-mars/"/>
     <id>http://syd.todayclose.com/2010/03/14/Lets-play-to-mars/</id>
     <published>2010-03-14T09:52:17.000Z</published>
-    <updated>2014-05-14T09:54:25.000Z</updated>
-    <content type="html"><![CDATA[<p>盒子</p>
-<p>演员表</p>
+    <updated>2014-05-14T12:50:29.000Z</updated>
+    <content type="html"><![CDATA[<h2 id=" 盒子 ">盒子</h2>
+<h3 id=" 演员表 ">演员表</h3>
 <p>男Ａ</p>
 <p>年轻人</p>
 <p>老头</p>
@@ -327,8 +327,8 @@
 <p>（男Ａ扔下盒子。什么东西在盒子里摔碎了。男Ａ在盒子前蹲下。灯光暗下，除了一道从上照下的红光，仅照亮盒子和男Ａ的脸。男Ａ低下头看看盒子里面，然后抬头看光源的方向，灯光变暗）</p>
 <p>谢幕</p>
 ]]></content>
-    <summary type="html"><![CDATA[<p>盒子</p>
-<p>演员表</p>
+    <summary type="html"><![CDATA[<h2 id=" 盒子 ">盒子</h2>
+<h3 id=" 演员表 ">演员表</h3>
 <p>男Ａ</p>
 <p>年轻人</p>
 <p>老头</p>
