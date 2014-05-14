@@ -4,7 +4,7 @@
   <subtitle><![CDATA[什么都没有，除了我的天才。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://bububa.github.io/"/>
-  <updated>2014-05-14T05:13:41.905Z</updated>
+  <updated>2014-05-14T09:02:53.286Z</updated>
   <id>http://bububa.github.io/</id>
   
   <author>
@@ -13,6 +13,29 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[死神]]></title>
+    <link href="http://bububa.github.io/2009/05/29/Death/"/>
+    <id>http://bububa.github.io/2009/05/29/Death/</id>
+    <published>2009-05-29T09:00:27.000Z</published>
+    <updated>2014-05-14T09:02:42.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>我看见, 一匹灰色的马, 骑在马上的人叫死神, 表情疯狂而且冷漠, 伴随他的是无边的悲伤和绝望…</p>
+</blockquote>
+<p>──《新约·马太福音》第二十二章</p>
+]]></content>
+    
+    
+      <category term="马太福音" scheme="http://bububa.github.io/tags/%E9%A9%AC%E5%A4%AA%E7%A6%8F%E9%9F%B3/"/>
+    
+      <category term="Pier Paolor Pasolini" scheme="http://bububa.github.io/tags/Pier%20Paolor%20Pasolini/"/>
+    
+      <category term="帕索里尼" scheme="http://bububa.github.io/tags/%E5%B8%95%E7%B4%A2%E9%87%8C%E5%B0%BC/"/>
+    
+      <category term="消失" scheme="http://bububa.github.io/categories/%E6%B6%88%E5%A4%B1/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[秦玫那天死了]]></title>
@@ -226,6 +249,24 @@
     
     
       <category term="白雪公主" scheme="http://bububa.github.io/tags/%E7%99%BD%E9%9B%AA%E5%85%AC%E4%B8%BB/"/>
+    
+      <category term="消失" scheme="http://bububa.github.io/categories/%E6%B6%88%E5%A4%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[秦小姐大寿]]></title>
+    <link href="http://bububa.github.io/2009/02/22/Happy-birthday-Qin/"/>
+    <id>http://bububa.github.io/2009/02/22/Happy-birthday-Qin/</id>
+    <published>2009-02-22T08:53:47.000Z</published>
+    <updated>2014-05-14T09:00:07.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://bububa-github-io.qiniudn.com/qinmei-2008.jpg" alt="Qinmei"><br>都 32 了可不大寿嘛</p>
+]]></content>
+    
+    
+      <category term="生日" scheme="http://bububa.github.io/tags/%E7%94%9F%E6%97%A5/"/>
+    
+      <category term="秦玫" scheme="http://bububa.github.io/tags/%E7%A7%A6%E7%8E%AB/"/>
     
       <category term="消失" scheme="http://bububa.github.io/categories/%E6%B6%88%E5%A4%B1/"/>
     
