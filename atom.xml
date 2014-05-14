@@ -4,7 +4,7 @@
   <subtitle><![CDATA[什么都没有，除了我的天才。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://bububa.github.io/"/>
-  <updated>2014-05-14T09:10:36.561Z</updated>
+  <updated>2014-05-14T09:11:15.458Z</updated>
   <id>http://bububa.github.io/</id>
   
   <author>
@@ -32,6 +32,24 @@
       <category term="Pier Paolor Pasolini" scheme="http://bububa.github.io/tags/Pier%20Paolor%20Pasolini/"/>
     
       <category term="帕索里尼" scheme="http://bububa.github.io/tags/%E5%B8%95%E7%B4%A2%E9%87%8C%E5%B0%BC/"/>
+    
+      <category term="消失" scheme="http://bububa.github.io/categories/%E6%B6%88%E5%A4%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[秦小姐大寿]]></title>
+    <link href="http://bububa.github.io/2009/04/29/Happy-birthday-Qin/"/>
+    <id>http://bububa.github.io/2009/04/29/Happy-birthday-Qin/</id>
+    <published>2009-04-29T08:53:47.000Z</published>
+    <updated>2014-05-14T09:11:11.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://bububa-github-io.qiniudn.com/qinmei-2008.jpg" alt="Qinmei"><br>都 32 了可不大寿嘛</p>
+]]></content>
+    
+    
+      <category term="生日" scheme="http://bububa.github.io/tags/%E7%94%9F%E6%97%A5/"/>
+    
+      <category term="秦玫" scheme="http://bububa.github.io/tags/%E7%A7%A6%E7%8E%AB/"/>
     
       <category term="消失" scheme="http://bububa.github.io/categories/%E6%B6%88%E5%A4%B1/"/>
     
@@ -251,24 +269,6 @@
     
     
       <category term="白雪公主" scheme="http://bububa.github.io/tags/%E7%99%BD%E9%9B%AA%E5%85%AC%E4%B8%BB/"/>
-    
-      <category term="消失" scheme="http://bububa.github.io/categories/%E6%B6%88%E5%A4%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[秦小姐大寿]]></title>
-    <link href="http://bububa.github.io/2009/02/22/Happy-birthday-Qin/"/>
-    <id>http://bububa.github.io/2009/02/22/Happy-birthday-Qin/</id>
-    <published>2009-02-22T08:53:47.000Z</published>
-    <updated>2014-05-14T09:04:32.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://bububa-github-io.qiniudn.com/qinmei-2008.jpg" alt="Qinmei"><br>都 32 了可不大寿嘛</p>
-]]></content>
-    
-    
-      <category term="生日" scheme="http://bububa.github.io/tags/%E7%94%9F%E6%97%A5/"/>
-    
-      <category term="秦玫" scheme="http://bububa.github.io/tags/%E7%A7%A6%E7%8E%AB/"/>
     
       <category term="消失" scheme="http://bububa.github.io/categories/%E6%B6%88%E5%A4%B1/"/>
     
