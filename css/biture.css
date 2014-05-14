@@ -238,9 +238,11 @@ ul.ext-menu {
   line-height: 1.8em;
   vertical-align: baseline;
 }
-#main-content a, #main-content a:visited {
+
+#main-content .article-title a, #main-content .article-title a:visited, #main-content .article-entry a, #main-content .article-entry a:visited, #main-content .article-meta a, #main-content .article-meta a:visited, #main-content .bitpager a, #main-content .bitpager a:visited {
   padding: 4px;
 }
+
 #main-content .article-title a:hover, #main-content .article-meta a:hover, #main-content .article-entry a:hover, #main-content .bitpager a:hover {
   border-radius: 4px;
   box-shadow: #258fb8 0px 0px 2px,rgba(255,255,255,0.15) 0px 1px 1px inset;
