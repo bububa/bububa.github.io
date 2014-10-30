@@ -4,7 +4,7 @@
   <subtitle><![CDATA[什么都没有，除了我的天才。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://syd.todayclose.com/"/>
-  <updated>2014-10-30T14:47:42.892Z</updated>
+  <updated>2014-10-30T16:54:38.760Z</updated>
   <id>http://syd.todayclose.com/</id>
   
   <author>
@@ -15,11 +15,11 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[无忧副本]]></title>
-    <link href="http://syd.todayclose.com/2010/10/20/-20101020/"/>
-    <id>http://syd.todayclose.com/2010/10/20/-20101020/</id>
+    <title><![CDATA[喝酒]]></title>
+    <link href="http://syd.todayclose.com/2010/10/20/-drink/"/>
+    <id>http://syd.todayclose.com/2010/10/20/-drink/</id>
     <published>2010-10-20T10:05:39.000Z</published>
-    <updated>2014-10-30T14:42:54.000Z</updated>
+    <updated>2014-10-30T16:53:56.000Z</updated>
     <content type="html"><![CDATA[<p>广陵绝响嵇康死，<br>草堂犹在人不醒，<br>孤独把酒孤独醉，<br>只见恒娥舞玉清</p>
 ]]></content>
     
@@ -28,16 +28,20 @@
     
       <category term="徐学谦" scheme="http://syd.todayclose.com/tags/%E5%BE%90%E5%AD%A6%E8%B0%A6/"/>
     
+      <category term="喝酒" scheme="http://syd.todayclose.com/tags/%E5%96%9D%E9%85%92/"/>
+    
+      <category term="行散" scheme="http://syd.todayclose.com/tags/%E8%A1%8C%E6%95%A3/"/>
+    
       <category term="消失" scheme="http://syd.todayclose.com/categories/%E6%B6%88%E5%A4%B1/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[无忧]]></title>
-    <link href="http://syd.todayclose.com/2010/10/15/-20101015/"/>
-    <id>http://syd.todayclose.com/2010/10/15/-20101015/</id>
+    <link href="http://syd.todayclose.com/2010/10/15/-%E6%97%A0%E5%BF%A7/"/>
+    <id>http://syd.todayclose.com/2010/10/15/-无忧/</id>
     <published>2010-10-15T10:05:39.000Z</published>
-    <updated>2014-10-30T13:48:24.000Z</updated>
+    <updated>2014-10-30T16:52:40.000Z</updated>
     <content type="html"><![CDATA[<p>三十年来乐与愁，蹉跎岁月也风流，好书执友常相伴，他年做鬼亦无忧</p>
 ]]></content>
     
