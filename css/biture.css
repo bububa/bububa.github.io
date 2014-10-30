@@ -1,9 +1,9 @@
 /*-------------------------------------------------------------------------------------------*/
 /* 0. setup (overwrite [Pure](http://purecss.io/)) */
 /*-------------------------------------------------------------------------------------------*/
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
-@import url(http://fonts.googleapis.com/css?family=Varela+Round%3Aregular&#038;subset=latin&#038;ver=3.8);
-@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
+@import url(http://fonts.useso.com/css?family=Open+Sans);
+@import url(http://fonts.useso.com/css?family=Varela+Round%3Aregular&#038;subset=latin&#038;ver=3.8);
+@import url(http://fonts.useso.com/css?family=Source+Code+Pro);
 
 body {
   width: 100%;
